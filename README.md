@@ -17,6 +17,7 @@ Overall Concept:
 
 Sketch :![devicesketch](devicesketch.jpg)  
 
+
 Description: 
 - For the height part, there will be a Distance Ranging Sensor to display the height of this object. If the object higher than a specific number, there would be a led turn to a red light. Otherwise, when the object comes close to the sensor, the light would be green. For the weight part, a Square Force-Sensitive Resistor can help detect the object’s weight approximately. When the object put on the Square Force-Sensitive Resistor, the force will be detect. If the force larger than the weight number set in advance, another led would turn to red. Otherwise, this led would be green when the object put on the force sensor. 
 
