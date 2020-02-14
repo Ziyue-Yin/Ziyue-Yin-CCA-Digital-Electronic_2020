@@ -17,15 +17,17 @@ Punch List:
   - Sensors and Outputs: Adafruit VL6180X Time of Flight Distance Ranging Sensor (VL6180); 
      Square Force-Sensitive Resistor (FSR)-Interlink 406 ; 
      2 LEDs 
-  - step 1 : create a code and the first circuit with the distance sensor
-  - step 2 : create a code and the second circuit with the force sensor
+  - step 1 : create a sketch about the distance ranging sensor work circuit 
+  - step 2 : write a code and create the circuit with the distance sensor
+  - step 3 : test it
   
 "nice to have" : 
+  - play with a figureprint sensor
+  - create a code and the second circuit with the force sensor
   - If it is possible, it would be a speaker to achieve an future goal that the distance sensor can detect the sound.
   - The distance sensor and the force sensor can detect the object simutaneously.
   - Or it is possible to have a reminder which produces by the speaker. 
   - It will be nice if there is an output for the force sensor to show the number of the object weight.
-
 
 3 sensors research :
   - Adafruit VL6180X Time of Flight Distance Ranging Sensor (VL6180)
