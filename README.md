@@ -1,13 +1,5 @@
 # Ziyue-Yin-CCA-Digital-Electronic_2020
 
-## week1
--see week 1 floder
-
-## week2 
-Description: In this video, it is a robot hand that can trace the movement of the user's hand when the user wears the gloves. 
-The circuit is connected behind the glove in order to track the wispy movements of each joint of the finger.
-link:https://youtu.be/mnurLBNWIdc
-
 ## week3
 Device: 
 - A device can detect object’s height and weight
@@ -63,3 +55,12 @@ Description of what I learned:
    There are a variety of sensors that are in different categories. Even some sensors are similar; they might work with different principles. The one sensor I found interested me is the fingerprint sensor, which could be a controller in the Arduino work. If it is possible, I will use it to control my LEDs or other outputs. 
     
    link: https://learn.adafruit.com/adafruit-optical-fingerprint-sensor
+   
+## week2 
+Description: In this video, it is a robot hand that can trace the movement of the user's hand when the user wears the gloves. 
+The circuit is connected behind the glove in order to track the wispy movements of each joint of the finger.
+link:https://youtu.be/mnurLBNWIdc
+
+## week1
+-see week 1 floder
+
