@@ -4,7 +4,7 @@
 
 This is my first mock up sketch for the mid-term project.
 
-Sketch :![image](sketch for first mock up.jpg)  
+Sketch :![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/sketch%20for%20first%20mock%20up.jpg)  
 
 
 ## week3
