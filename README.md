@@ -54,6 +54,7 @@ Punch List:
     FSRs are made of plastic and the connection tab is crimped on delicate material. The best way to connect to these is to simply plug them into a breadboard or use a clamp-style connector like alligator clips, female header, or a terminal block. It is possible to solder onto the tabs but you must be very fast because if your iron is not good quality or you dally even a few seconds, you will melt the plastic and ruin the FSR! Don't attempt to solder directly to your FSR unless you are absolutely sure you have the skills to do so.
   
   - Adafruit 9-DOF Absolute Orientation IMU Fusion Breakout - BNO055
+  
     link: https://www.adafruit.com/product/2472
   
     The sensor fusion algorithms (the secret sauce that blends accelerometer, magnetometer and gyroscope data into stable three-axis orientation output) can be mind-numbingly difficult to get right and implement on low cost real time systems.
