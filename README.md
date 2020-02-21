@@ -4,7 +4,7 @@
 
 This is my first mock up sketch for the mid-term project.
 
-Sketch :![sketch for first mock up](sketch for first mock up.jpg)  
+Sketch :![image](sketch for first mock up.jpg)  
 
 
 ## week3
