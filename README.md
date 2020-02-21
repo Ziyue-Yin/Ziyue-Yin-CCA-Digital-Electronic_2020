@@ -14,7 +14,7 @@ Device:
 Overall Concept:
 - In this device, I am going to create a device which can detect the height and the weight of small object. 
 
-Sketch :![devicesketch](devicesketch.jpg)  
+Sketch :![devicesketch](devicesketch.jpg)   
 
 
 Description: 
