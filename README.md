@@ -6,6 +6,10 @@ This is my first mock up sketch for the mid-term project.
 
 Sketch :![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/sketch%20for%20first%20mock%20up.jpg)  
 
+Here is my first distance sensor circuit attempt.
+Sensor Circuit:![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/Zoey%20Yin_firstMockUp/IMG_6732.jpeg)  
+Sensor Circuit:![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/Zoey%20Yin_firstMockUp/IMG_6733.jpeg)  
+
 
 ## week3
 Device: 
