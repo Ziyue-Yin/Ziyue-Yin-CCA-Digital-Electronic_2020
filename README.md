@@ -1,5 +1,12 @@
 # Ziyue-Yin-CCA-Digital-Electronic_2020
 
+## week4
+
+This is my first mock up sketch for the mid-term project.
+
+Sketch :![sketch for first mock up](IMG_6730 copy.jpg)  
+
+
 ## week3
 Device: 
 - A device can detect object’s height and weight
