@@ -1,4 +1,11 @@
 # Ziyue-Yin-CCA-Digital-Electronic_2020
+## week5
+This week I attempt to finish the digital screen. My schedule is to make the digital screen display the words and the distance sensor can work individually. However, my digital screen is not able to work. It can light, but can not type in the words. I hope I can solve it in class. 
+
+I have already write the individual code for digital screen and my distance sensor. Next step is to combine them together. 
+
+Process of my work: 
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week%205%20assign/digital%20screen%20display.jpg)  
 
 ## week4
 
