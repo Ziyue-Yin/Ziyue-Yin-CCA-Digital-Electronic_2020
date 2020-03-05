@@ -1,4 +1,31 @@
 # Ziyue-Yin-CCA-Digital-Electronic_2020
+
+## week6
+At the end of week 5, I made the LCD screen circuit individually on the Arduino board. 
+
+Here is my previous work.
+
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week%206%20upload/the%20end%20of%20wk5.GIF)  
+
+And in the week, I attempt to connect my LCD screen and Ultrasonic Sensor together. It is to display the distance on the screen. 
+However, when I combine the LCD and Ultrasonic Sensor together. There comes out a problem : the screen can only display the phrase "Out of range". I set the code: 
+
+if (distance >= 400 || distance <= 2){
+    lcd.print("Out of range");
+    delay(500);
+  }
+  else {
+    lcd.print(distance);
+    lcd.print(" cm");
+    delay(500);
+  }
+
+That's means when I move the object close to the sensor, it is possible to show the distance which is in the range of 2-400cm. 
+However, it does not work.
+
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week%206%20upload/wk6.GIF)  
+
+
 ## week5
 This week I attempt to finish the digital screen. My schedule is to make the digital screen display the words and the distance sensor can work individually. However, my digital screen is not able to work. It can light, but can not type in the words. I hope I can solve it in class. 
 
