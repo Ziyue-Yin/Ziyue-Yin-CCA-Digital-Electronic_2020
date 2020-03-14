@@ -1,6 +1,7 @@
 # Ziyue-Yin-CCA-Digital-Electronic_2020
 
-## week7
+## week7 - Midterm Project
+
 - Description of your concept 
     In this mid term project, I am going to create a distance measure device. Within the different distances between the object and the device, there will be the different lights turning on. 
     
@@ -8,9 +9,11 @@
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/drawing.JPG)  
 
 - picture of the first iteration
-![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/first%20iteration.JPG)  
+  In this step, I attempted to put sensor, digital screen and led light on the device together. With the code, the led and sensor can work individually. However, the digital screen cannot work with other parts togther. On the digital screen, the messy code was always there. 
 
-- video of your working project (upload to YouTube and post a link)
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_6999.jpeg)  
+
+- Video of working project 
 
 - Code :
 
@@ -115,9 +118,7 @@ void loop() {
   delay(10);
   
   Serial.print(sonar.ping_cm());
-
 }
-
 
 
 ## week6
