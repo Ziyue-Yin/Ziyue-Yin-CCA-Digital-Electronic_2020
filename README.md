@@ -7,11 +7,11 @@ Description
 - In this mid term project, I am going to create a distance measure device. Within the different distances between the object and the device, there will be the different lights turning on. 
     
 Drawing of initial concept
-![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_6997.jpeg)  
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/drawing.JPG)  
 
 Picture of the first iteration
 
-![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_6999.jpeg)  
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_6997.jpeg)  
 
 - In this step, I attempted to put sensor, digital screen and led light on the device together. With the code, the led and sensor can work individually. However, the digital screen cannot work with other parts togther. On the digital screen, the messy code was always there. 
 
