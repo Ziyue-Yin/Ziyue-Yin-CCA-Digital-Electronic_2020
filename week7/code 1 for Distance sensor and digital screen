@@ -1,0 +1,50 @@
+#include <NewPing.h>
+
+#include <LiquidCrystal.h>
+
+LiquidCrystal lcd(1 , 2 , 4 , 5 , 6 , 7 );
+ 
+#define TRIGGER_PIN  12
+#define ECHO_PIN     11
+#define MAX_DISTANCE 200
+ 
+NewPing sonar(TRIGGER_PIN, ECHO_PIN, MAX_DISTANCE);
+ 
+void setup() {
+  //Serial.begin(115200);
+  Serial.begin(9600);
+  lcd.begin(16, 2);
+  lcd.print("Distance");
+  lcd.print(" cm");
+}
+ 
+void loop() {
+
+  delay(300);  
+
+  lcd.setCursor(2, 1);
+  delay(300);
+
+  lcd.clear();
+
+  lcd.blink();
+  delay(400);
+  lcd.setCursor(7, 1);
+  delay(300);
+  lcd.noBlink();
+
+  lcd.cursor();
+  delay(400);
+  lcd.noCursor();
+
+  lcd.print("Distance");
+  lcd.print(" cm"); 
+  
+  lcd.print(millis() / 1000);
+  
+  delay(50);
+  
+  Serial.print("Distance: ");
+  Serial.print(sonar.ping_cm());
+  Serial.println("cm");
+}
