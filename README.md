@@ -2,21 +2,23 @@
 
 ## week7 - Midterm Project
 
-- Description of your concept 
-    In this mid term project, I am going to create a distance measure device. Within the different distances between the object and the device, there will be the different lights turning on. 
+Description
+
+- In this mid term project, I am going to create a distance measure device. Within the different distances between the object and the device, there will be the different lights turning on. 
     
-- drawing of initial concept
+Drawing of initial concept
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/drawing.JPG)  
 
-- picture of the first iteration
-  In this step, I attempted to put sensor, digital screen and led light on the device together. With the code, the led and sensor can work individually. However, the digital screen cannot work with other parts togther. On the digital screen, the messy code was always there. 
+Picture of the first iteration
+
+- In this step, I attempted to put sensor, digital screen and led light on the device together. With the code, the led and sensor can work individually. However, the digital screen cannot work with other parts togther. On the digital screen, the messy code was always there. 
 
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_6999.jpeg)  
 
 - Video of working project 
 
 - Code :
- This project code I have already put in the "week 7 midterm work" folder.
+ This project code I have already put in the "week 7" folder.
 
 
 ## week6
