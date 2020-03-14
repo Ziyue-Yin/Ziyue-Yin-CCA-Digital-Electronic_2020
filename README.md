@@ -1,5 +1,124 @@
 # Ziyue-Yin-CCA-Digital-Electronic_2020
 
+## week7
+- Description of your concept 
+    In this mid term project, I am going to create a distance measure device. Within the different distances between the object and the device, there will be the different lights turning on. 
+    
+- drawing of initial concept
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/drawing.JPG)  
+
+- picture of the first iteration
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/first%20iteration.JPG)  
+
+- video of your working project (upload to YouTube and post a link)
+
+- Code :
+
+#include <NewPing.h>
+
+#include <LiquidCrystal.h>
+
+LiquidCrystal lcd(1 , 2 , 4 , 5 , 6 , 7 );
+ 
+#define trigpin  13
+#define echopin  12
+#define MAX_DISTANCE 200
+ 
+NewPing sonar(trigpin, echopin, MAX_DISTANCE);
+
+#define R 9
+
+#define G 10
+
+#define B 11
+ 
+void setup() {
+  //Serial.begin(115200);
+  Serial.begin(9600);
+  
+  lcd.begin(16, 2);
+  lcd.print("Distance");
+  lcd.print(" cm");
+
+  pinMode(trigpin,OUTPUT); //set trigpin as output
+  pinMode(echopin,INPUT);//set echopin as input
+
+  pinMode(R, OUTPUT);
+  pinMode(G, OUTPUT);
+  pinMode(B, OUTPUT);
+
+}
+ 
+void loop() {
+
+  //the trigpin sends out a signal, which bounces off an obstacle and comes back, the 
+  //echopin recieves this signal and gives out +5v setting the arduino pin on which it is connected to high.
+  //distance= time*speed, but this distnce is divided by 2 because signal sent out returns
+  //so distance= (the time it takes for the signal to leave and return)/2.
+  //i.e if the time is 6s the distance = (6s/2) = 3m or cm.
+  
+  int duration, distance;//declare distance and duration as integers
+  digitalWrite(trigpin,HIGH);// trigin send out signal
+  _delay_ms(300);//coninously for 1000ms
+  digitalWrite(trigpin, LOW);// then goes low
+  
+  duration=pulseIn(echopin,HIGH); // duration is the pulseIn to the echopin
+  distance=(duration/2)/29.1; //  the 29.1 is used to convert the distnce to cm, the value varies for other units.
+  
+  if(distance > 0 && distance <= 10){//distcance is greater than 0 and less than 10cm
+    digitalWrite(G,LOW);//green led is off
+    digitalWrite(B,LOW);//blue led is off
+     _delay_ms(300);//delay
+    digitalWrite(R,HIGH);//red led is on
+  _delay_ms(300);
+  }
+  else if(distance > 10 && distance <= 20){//distcance is greater than 10 and less than 20cm
+        digitalWrite(R,LOW);//red led is off
+         digitalWrite(B,LOW);//blue led is off
+         _delay_ms(300);
+    digitalWrite(G,HIGH);//green led is on
+      }
+  
+       else if(distance > 20 && distance <= 30 ){//distcance is greater than 20 and less than 30cm
+        digitalWrite(R,LOW);//red led is off
+        digitalWrite(G,LOW);//green led is off
+         _delay_ms(300);
+    digitalWrite(B,HIGH);//blue led is on
+      }
+   Serial.println("cm");
+  Serial.print("Distance:");//print values on serial monitor
+  _delay_ms(100);
+
+
+  delay(300);  
+
+  lcd.setCursor(2, 1);
+  delay(300);
+
+  lcd.clear();
+
+  lcd.blink();
+  delay(400);
+  lcd.setCursor(7, 1);
+  delay(300);
+  lcd.noBlink();
+
+  lcd.cursor();
+  delay(400);
+  lcd.noCursor();
+
+  lcd.print("Distance");
+  lcd.print(" cm"); 
+  
+  lcd.print(millis() / 1000);
+  
+  delay(10);
+  
+  Serial.print(sonar.ping_cm());
+
+}
+
+
 
 ## week6
 At the end of week 5, I made the LCD screen circuit individually on the Arduino board. 
