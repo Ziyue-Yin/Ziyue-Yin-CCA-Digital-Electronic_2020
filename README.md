@@ -21,7 +21,7 @@ Description
 
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_7396.GIF)  
 
-- When the distance is in 10-20 cm, the led will be green.
+- When the distance is in 20-30 cm, the led will be green.
 
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_7395.GIF)  
 
