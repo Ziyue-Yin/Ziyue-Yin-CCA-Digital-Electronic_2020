@@ -25,13 +25,14 @@ Description
 
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_7395.GIF)  
 
-Components for distance sensor: 
+List of Components:
 - Arduino Board
 - Breadboard and Jump Wires
-- Potentiometer  - adjust the brightness of LCD screen
-- RGB LED - OUTPUT to display the different distance ranges
-- Ultrasonic Sensor 
 - The LCD Screen 
+- Potentiometer  - adjust the brightness of LCD screen
+- Ultrasonic Sensor 
+- RGB LED - OUTPUT to display the different distance ranges
+
 
 - Code :
  This project code I have already put in the "week 7" folder.
