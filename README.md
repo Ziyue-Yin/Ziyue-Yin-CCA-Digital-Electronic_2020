@@ -39,7 +39,7 @@ List of Components:
  https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/code%20for%20Distance%20sensor%20and%20lcd%20screen
 
 - Video link: 
-https://youtu.be/WEjfyqdJA48
+https://youtu.be/O0MsUV0EuYU
 
 ## week6
 At the end of week 5, I made the LCD screen circuit individually on the Arduino board. 
