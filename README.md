@@ -4,20 +4,26 @@
 
 Description
 
-- In this mid term project, I am going to create a distance measure device. Within the different distances between the object and the device, there will be the different lights turning on. 
+- In this mid term project, I am going to create a distance measure device. Within the different distances between the object and the device, there will be the different lights turning on and the specific distance number displayed on the digital screen. 
     
-Drawing of initial concept
+- Drawing of initial concept
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/concept%20drawing.jpg)  
 
-Picture of the first iteration
+- Picture of the first iteration
 
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_6997.jpeg)  
 
-- In this step, I attempted to put sensor, digital screen and led light on the device together. 
+- In this distance measure device, when the distance is in 0-10 cm range, the led will be red.
 
-![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_6999.jpeg)  
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_7394.GIF)  
 
-- Video of working project 
+- When the distance is in 10-20 cm, the led will be blue.
+
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_7396.GIF)  
+
+- When the distance is in 10-20 cm, the led will be green.
+
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/IMG_7395.GIF)  
 
 - Code :
  This project code I have already put in the "week 7" folder.
