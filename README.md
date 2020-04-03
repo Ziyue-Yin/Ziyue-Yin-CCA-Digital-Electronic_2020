@@ -27,6 +27,7 @@ Description
 
 - Code :
  This project code I have already put in the "week 7" folder.
+ https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week7/code%201%20for%20Distance%20sensor%20and%20digital%20screen
 
 
 ## week6
