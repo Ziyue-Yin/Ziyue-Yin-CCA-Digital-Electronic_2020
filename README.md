@@ -15,7 +15,7 @@
 - Basic Parts: Bread board / Wire / Arduino Uno board
 - Ultrasonic Distance Sensor
 - LED Light
-- Speaker : https://www.adafruit.com/product/1314 / https://www.adafruit.com/product/1313 / https://www.adafruit.com/product/1313 
+- Speaker : https://www.adafruit.com/product/1314 / https://www.adafruit.com/product/1313 / https://www.adafruit.com/product/1313  (Select one of them)
 
 ##### Nice to have
 - LED RGB Light (Coding the fade on)
