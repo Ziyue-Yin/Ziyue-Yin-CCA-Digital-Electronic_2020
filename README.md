@@ -8,7 +8,7 @@
 
 - How it works: This device turns on only at midnight. Use the remote control to turn on the device. If there is someone close to the door at midnight, the distance sensor will detect him. Then the speaker will yell at the stranger: “Get away from my house!”. Meanwhile, the led light will turn on. 
 
-- Drawing of concept
+-  Concept Sketch
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week%2011/%E6%88%AA%E5%B1%8F2020-04-0921.20.44.png)  
 
 ##### Must have
