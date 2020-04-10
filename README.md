@@ -2,26 +2,41 @@
 
 ## Week 11: Final Project Proposal
 
-### Concept 1: Get away from my house!
+### Concept: Get away from my house!
 
 - This is a security device to drive strangers out of the door after midnight. It installs near the doorway. Now my roommates and I are living in a house in Ocean Ave. There is a potential safety hazard when we fall asleep, especially during the coronavirus time. This device can help us to scare the strangers coming at midnight. 
 
-- How it works: This device turns on only at midnight. If there is someone close to the door at midnight, the distance sensor will detect him. Then the speaker will yell at the stranger: “Get away from my house!”. Meanwhile, the led light will turn on. 
+- How it works: This device turns on only at midnight. Use the remote control to turn on the device. If there is someone close to the door at midnight, the distance sensor will detect him. Then the speaker will yell at the stranger: “Get away from my house!”. Meanwhile, the led light will turn on. 
 
 - Drawing of concept
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week%2011/%E6%88%AA%E5%B1%8F2020-04-0921.20.44.png)  
 
 ##### Must have
 - Basic Parts: Bread board / Wire / Arduino Uno board
+- Remote Controller
 - Ultrasonic Distance Sensor
 - LED Light
 - Speaker : https://www.adafruit.com/product/1314 / https://www.adafruit.com/product/1313 / https://www.adafruit.com/product/1313  (Select one of them)
 
 ##### Nice to have
 - LED RGB Light (Coding the fade on)
+- Remote Control the device on and off.
 
-#### Steps to create the device :
-- Write the coding of ultrasonic distance sensor, LED and Speaker.
+#### Steps to use the device :
+- Use the remote controller to turn on the device at the midnight.
+- When the strange person comes close, the led light will fade. 
+- Meanwhile, the speaker will yell at the stranger: " Get away from my house!"
+- Turn off the device when you get up.
+
+- Optional : This device can also use during the time that the residents are not at home.
+
+- Storyboard about how to use the device: 
+
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week%2011/digital%20electric_20200409231120-01.png)  
+
+#### Steps to make the device :
+- Set up the remote controller to adjust the device on at the midnight and off during the daytime.
+- Write the coding of remote controller, ultrasonic distance sensor, LED and Speaker.
 - Find a way to record the voice which can play on the speaker. 
 - Install them on the outdoor. 
 
