@@ -1,5 +1,17 @@
 # Ziyue-Yin-CCA-Digital-Electronic_2020
 
+## Week 11: Final Project Proposal
+
+Concept 1: Get away from my house!
+
+- This is a security device to drive strangers out of the door after midnight. It installs near the doorway. Now my roommates and I are living in a house in Ocean Ave. There is a potential safety hazard when we fall asleep, especially during the coronavirus time. This device can help us to scare the strangers coming at midnight. 
+
+- How it works: This device turns on only at midnight. If there is someone close to the door at midnight, the distance sensor will detect him. Then the speaker will yell at the stranger: “Get away from my house!”. Meanwhile, the led light will turn on. 
+
+- Drawing of concept
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week%2011/1571586491608_.pic_hd.jpg)  
+
+
 ## week7 - Midterm Project
 
 Description
