@@ -2,7 +2,7 @@
 
 ## Week 11: Final Project Proposal
 
-# Concept 1: Get away from my house!
+### Concept 1: Get away from my house!
 
 - This is a security device to drive strangers out of the door after midnight. It installs near the doorway. Now my roommates and I are living in a house in Ocean Ave. There is a potential safety hazard when we fall asleep, especially during the coronavirus time. This device can help us to scare the strangers coming at midnight. 
 
