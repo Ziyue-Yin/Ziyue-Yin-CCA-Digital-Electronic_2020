@@ -11,6 +11,8 @@
 - Drawing of concept
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week%2011/%E6%88%AA%E5%B1%8F2020-04-0921.20.44.png)  
 
+- Must have
+- - Must HAVE
 
 ## week7 - Midterm Project
 
