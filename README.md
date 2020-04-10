@@ -35,7 +35,7 @@
 ![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020/blob/master/week%2011/digital%20electric_20200409231120-01.png)  
 
 #### Steps to make the device :
-- Set up the remote controller to adjust the device on at the midnight and off during the daytime.
+- Set up the remote controller to turn the device on at the midnight and turn off during the daytime.
 - Write the coding of remote controller, ultrasonic distance sensor, LED and Speaker.
 - Find a way to record the voice which can play on the speaker. 
 - Install them on the outdoor. 
