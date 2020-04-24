@@ -1,5 +1,36 @@
 # Ziyue-Yin-CCA-Digital-Electronic_2020
 
+## Week 12: Final Project Part 1
+
+### Project revise: 
+- Use the LDR  to achieve the function of switch: The device turn on during the night, turn off at the daytime.
+- The MP3 speaker cable is to play the voice of "Get away from my house!"
+- Distance sensor to perceive if the stangers come close to the outdoor.
+- LED light will turn on fade with the speaker's voice at the same time.
+
+#### Resources of the sensors:
+- Ultrasonic sensor with speaker: https://youtu.be/gLDoFxYp-Ek
+- LED Fade : https://youtu.be/emPE8WUIFRg
+- LDR : https://www.youtube.com/watch?v=qKku-mmwNIA
+
+#### Process part 1:
+- Steps to do:
+- - Install the LDR 
+- - Ultrasonic sensor and Speaker
+- - LED Sensor
+
+##### Attempt of part 1:
+1\ During this week, I attempt to install the ultrasonic sensor, LDR and the LEDs together. 
+At first step, I coded the Ultrasonic sensor and LED together, then coded the LDR seperately. 
+I would like to use the red LED and the Green LED first. When the distance is less than 5 cm, the red light will turn on and meanwhile the Speaker will work. When the distance is more than 5 cm, the Green LED will turn on and the red one will turn off. 
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/IMG_0181.jpeg)  
+Problems:
+When I finish the code, the distance sensor can work, but the LEDs cannot work at the same time. 
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/IMG_0182.jpeg)  
+
+##### NEXT Step for the work: 
+Next week, I am going to fix the LEDs' problem first, and then code the LDR, leds, Ultrasonic Sensor and Speaker togther. 
+
 ## Week 11: Final Project Proposal
 
 ### Concept: Get away from my house!
