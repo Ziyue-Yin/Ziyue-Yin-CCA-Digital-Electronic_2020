@@ -36,7 +36,7 @@ This device turns on only at midnight which will be detected by the LDR. If ther
 - https://youtu.be/iVoFrzQOh0c
 
 ### Code:
-- https://youtu.be/iVoFrzQOh0c
+- https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/Code%20for%20project
 
 ## Week 12: Final Project Part 1
 
