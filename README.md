@@ -1,9 +1,39 @@
 # Ziyue-Yin-CCA-Digital-Electronic_2020
 
-## Week 14: Final Project Presentation
+## Week 14: Final Project Presentation - Security Protection Device
 
-### Final work:
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/final%20week%20image/IMG_0269.jpeg) 
 
+### Concept:
+- This is a security device to drive strangers out of the door after midnight. It installs near the doorway. My roommates and I are living in a house in Ocean Ave. There is a potential safety hazard when we fall asleep, especially during the coronavirus time. This device can help us to scare the strangers coming at midnight. 
+
+### Components :
+- Basic Parts: Bread board / Wire / Arduino Uno board
+- LDR - turn on the device when the surrounding is dark. 
+- Ultrasonic Sensor - recognize if the strangers come close the house
+- LED Lights - Red and Green, when someone comes close to the house, the red will turn on and the green will turn off. 
+- Serial MP3 Player
+- Speaker : yell at the strangers:"Get away from my house!"
+
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/final%20week%20image/IMG_0256.jpeg) 
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/final%20week%20image/IMG_0258.jpeg) 
+
+### How it works and Prototype:
+
+#### How it works:
+This device turns on only at midnight which will be detected by the LDR. If there is someone close to the door at midnight, the distance sensor will discover. Then the speaker will yell at the stranger: “Get away from my house!”. Meanwhile, the red light will turn on and the green one will turn off. 
+
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/final%20week%20image/IMG_0275.GIF) 
+
+#### Prototype:
+- At night, no one come close to the door:
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/final%20week%20image/IMG_0269.jpeg) 
+
+- Imitate someone comes close to the door:
+![image](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Mechatronics_2020/blob/master/final%20project/final%20week%20image/IMG_0270.jpeg) 
+
+### Presentation link:
+- https://youtu.be/iVoFrzQOh0c
 
 
 ## Week 12: Final Project Part 1
